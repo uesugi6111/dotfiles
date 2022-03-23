@@ -1,0 +1,10 @@
+
+[directory]
+truncation_length = 30
+truncate_to_repo = false
+
+[AWS]
+disabled = true
+
+[package]
+disabled = true
