@@ -3,7 +3,7 @@
 truncation_length = 30
 truncate_to_repo = false
 
-[AWS]
+[aws]
 disabled = true
 
 [package]

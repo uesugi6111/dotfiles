@@ -1,0 +1,1 @@
+Copy-Item -Path ~/dotfiles/.config/starship.toml -Destination ~/.config/ -Force
